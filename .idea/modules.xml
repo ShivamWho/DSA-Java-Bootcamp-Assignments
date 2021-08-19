@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Assignments/ConditionalsAndLoops/BasicJavaPrograms/BasicJavaPrograms.iml" filepath="$PROJECT_DIR$/Assignments/ConditionalsAndLoops/BasicJavaPrograms/BasicJavaPrograms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/FirstJavaPrograms/FirstJavaPrograms.iml" filepath="$PROJECT_DIR$/Assignments/FirstJavaPrograms/FirstJavaPrograms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/Function/Function.iml" filepath="$PROJECT_DIR$/Assignments/Function/Function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lectures/Functions  Methods in Java/Functions  Methods in Java.iml" filepath="$PROJECT_DIR$/Lectures/Functions  Methods in Java/Functions  Methods in Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/ConditionalsAndLoops/Intermediate Java Programs/Intermediate Java Programs.iml" filepath="$PROJECT_DIR$/Assignments/ConditionalsAndLoops/Intermediate Java Programs/Intermediate Java Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lectures/Introduction to Arrays and ArrayList in Java/Introduction to Arrays and ArrayList in Java.iml" filepath="$PROJECT_DIR$/Lectures/Introduction to Arrays and ArrayList in Java/Introduction to Arrays and ArrayList in Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaBootcamp.iml" filepath="$PROJECT_DIR$/.idea/JavaBootcamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lectures/Switch Statements + Nested Case in Java/Switch Statements + Nested Case in Java.iml" filepath="$PROJECT_DIR$/Lectures/Switch Statements + Nested Case in Java/Switch Statements + Nested Case in Java.iml" />
+    </modules>
+  </component>
+</project>
